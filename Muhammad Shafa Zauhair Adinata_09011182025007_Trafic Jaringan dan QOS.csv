@@ -1,0 +1,10 @@
+No.;Time;Source;Destination;Protocol;Length;Info;time 2;time 1;delay 1;delay 2;jitter
+4821;36553290;34.93.91.7;10.8.142.198;TLSv1.2;633;[TCP Previous segment not captured] , Ignored Unknown Record;37588065;36553290;1034775;5594315;4559540
+4976;37588065;34.106.86.104;10.8.142.198;TCP;134;[TCP Previous segment not captured] 443  >  59660 [ACK] Seq=2841 Ack=518 Win=64128 Len=80 [TCP segment of a reassembled PDU];43182380;37588065;5594315;5665169;70854
+7962;43182380;34.106.86.104;10.8.142.198;TCP;60;[TCP Previous segment not captured] 443  >  59660 [FIN, ACK] Seq=5154 Ack=1265 Win=64128 Len=0;48847549;43182380;5665169;0;-5665169
+11651;48847549;34.106.86.104;10.8.142.198;TCP;60;[TCP Previous segment not captured] 443  >  59661 [FIN, ACK] Seq=4999 Ack=583 Win=64128 Len=0;;;;;
+;;;;;;;;;;;
+;;;;;;;total delay;;12294259;;
+;;;;;;;rata rata delay;;671,5605506;;
+;;;;;;;total jitter;;-1034775;;
+;;;;;;;rata rata jitter;;-56,52346097;;
